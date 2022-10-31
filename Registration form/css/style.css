@@ -1,0 +1,53 @@
+.body{
+    background-color: blanchedalmond;
+}
+.head{
+    text-align: center;
+    color:red;
+    text-decoration: underline;
+    font-size: 25px;
+    padding: 25px;
+    margin-bottom: 25px;
+}
+
+#fname{
+    margin: 5px;
+}
+
+#lname{
+    margin: 5px;
+}
+#course{
+    margin: 5px;
+    padding: 5px;
+}
+.gender{
+    margin: 5px;
+    padding-left: 50px;
+}
+
+#number{
+    margin: 5px;
+    margin-top: 10px;
+}
+
+#address{
+    margin: 5px;
+}
+
+#email{
+    margin: 5px;
+}
+#pass{
+    margin: 5px;
+}
+#submit{
+    margin: 15px;
+    margin-left: 6pc;
+}
+
+.fulldata{
+    background-color: blueviolet;
+    text-align: center;
+    padding: 50px;
+}
